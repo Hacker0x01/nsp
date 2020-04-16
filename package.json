@@ -10,7 +10,7 @@
     "nodesecurity-npm-utils": "^3.0.0",
     "chalk": "^1.1.1",
     "cli-table": "^0.3.1",
-    "https-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^2.2.3",
     "joi": "^6.9.1",
     "rc": "^1.1.2",
     "semver": "^5.0.3",
